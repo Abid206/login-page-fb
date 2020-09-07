@@ -1,0 +1,115 @@
+.hdr1{
+    background-color:#4262A0;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 30px -15px;
+    box-sizing: border-box;
+    margin-top: 0;
+    width:100%;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#E4E9F0;
+}
+.name{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    margin-top:-39px;
+    height: 50px;
+    padding: 15px 0;
+    box-sizing: border-box;
+}
+.field{
+    width:100%;
+    background-color:#F7F8F9;
+    border: 0px solid rgb(83, 77, 77);
+    height: 50px;
+    margin-top: -80px;
+    box-sizing: border-box;
+    font-size: 18px;
+    padding: 5px;
+    letter-spacing: 1px;
+}
+.password{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    margin-top:-30px;
+    height: 60px;
+    padding: 27px 0;
+    box-sizing: border-box;
+
+}
+.login{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    margin-top: -8px;
+    padding: 8px 0;
+    box-sizing: border-box;
+
+}
+.login2{
+    background-color: #5890FF;
+    color: white;
+    text-align: center;
+    margin: auto;
+    width: 97%;
+    height: 45px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    margin-top: 15px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    border: rgb(36, 32, 32) none 1px;
+}
+.new-id{
+    margin-top: 15px;
+}
+
+.new-id2{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+
+}
+.new-id3{
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: #235A9A;
+
+}
+#o{
+    margin: 20px;
+}
+.links{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #245B9A;
+}
+.ftr{
+        background-color:#4262A0;
+        box-sizing: border-box;
+        width:100%;
+        margin: 45px 0 -10px 0;
+        height: 40px;
+        font-family: 'Roboto', sans-serif;
+}
+.link1{
+    color: white;
+    float:left;
+    text-decoration: none;
+}
+.link2{
+    color: white;
+    float: right;
+    text-decoration: none;
+}
+.div-clear{
+    clear: both;
+}
